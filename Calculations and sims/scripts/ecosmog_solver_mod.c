@@ -1,0 +1,1 @@
+# Placeholder content for ecosmog_solver_mod.c

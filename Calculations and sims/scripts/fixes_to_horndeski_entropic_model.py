@@ -1,0 +1,1 @@
+# Placeholder content for fixes_to_horndeski_entropic_model.py

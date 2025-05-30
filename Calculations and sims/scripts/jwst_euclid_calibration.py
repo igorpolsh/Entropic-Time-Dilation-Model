@@ -1,0 +1,1 @@
+# Placeholder content for jwst_euclid_calibration.py
