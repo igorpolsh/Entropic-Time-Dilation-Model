@@ -113,9 +113,4 @@ All validated at <1.5σ with fixes:
 | roman_hlis_forecast.py       | HLIS lensing kernel                            |
 | desi_y5_growth_forecast.py   | DESI growth projection                         |
 
-> MCMC chains and posterior data: [zenodo.org/entropic-model](https://zenodo.org/entropic-model) *(placeholder)*
 
----
-
-**License**: MIT
-**Author**: [Your Name or Group]
