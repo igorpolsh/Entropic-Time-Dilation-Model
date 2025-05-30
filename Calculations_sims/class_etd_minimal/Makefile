@@ -4,6 +4,6 @@ SRC=src/background.c src/main.c
 OUT=class_etd
 
 all:
-	$(CC) $(CFLAGS) $(SRC) -o $(OUT)
+	$(CC) $(CFLAGS) $(SRC) -o $(OUT) -lm
 clean:
 	rm -f $(OUT)
